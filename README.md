@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=gotham)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=JoeS51&theme=gotham)](https://git.io/streak-stats)
 
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoeS51&show_icons=true&theme=tokyonight)-->
 
