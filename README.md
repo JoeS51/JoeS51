@@ -1,5 +1,7 @@
 ## Hey, it's Johannes 🙂
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Currently+building+Pracareer;Second+line+of+text)](https://git.io/typing-svg)
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=JoeS51&theme=gotham)](https://git.io/streak-stats)
 
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JoeS51&show_icons=true&theme=tokyonight)-->
