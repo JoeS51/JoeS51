@@ -2,4 +2,4 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=JoeS51&theme=gotham)](https://git.io/streak-stats)
 
-![](https://komarev.com/ghpvc/?username=your-github-username&color=green)
+![](https://komarev.com/ghpvc/?username=JoeS51&color=green)
