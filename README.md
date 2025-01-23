@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=29&duration=2000&color=1AAE45&multiline=true&width=456&height=200&lines=Currently+building+...;-+Pracareer;-+ManuscriptAI;-+Portfolio)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=29&duration=2000&color=1AAE45&multiline=true&width=456&height=200&lines=Currently+building+.+.+.;-+Pracareer;-+Manuscript+AI;-+Portfolio)](https://git.io/typing-svg)
