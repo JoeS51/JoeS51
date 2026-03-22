@@ -2,8 +2,8 @@
 
 <table cellspacing="0" cellpadding="0">
   <tr>
-    <td align="center" width="96" valign="top">
-      <img src="assets/tier-s.svg" alt="S tier" width="96" height="112" />
+    <td align="center" width="96" valign="middle" bgcolor="#f77f84">
+      <strong><font color="#2b2b2b">S</font></strong>
     </td>
     <td bgcolor="#111111">
       <table cellspacing="6" cellpadding="0">
@@ -24,8 +24,8 @@
     </td>
   </tr>
   <tr>
-    <td align="center" width="96" valign="top">
-      <img src="assets/tier-a.svg" alt="A tier" width="96" height="112" />
+    <td align="center" width="96" valign="middle" bgcolor="#f2ba7b">
+      <strong><font color="#2b2b2b">A</font></strong>
     </td>
     <td bgcolor="#111111">
       <table cellspacing="6" cellpadding="0">
@@ -68,8 +68,8 @@
     </td>
   </tr>
   <tr>
-    <td align="center" width="96" valign="top">
-      <img src="assets/tier-b.svg" alt="B tier" width="96" height="112" />
+    <td align="center" width="96" valign="middle" bgcolor="#f0dc84">
+      <strong><font color="#2b2b2b">B</font></strong>
     </td>
     <td bgcolor="#111111">
       <table cellspacing="6" cellpadding="0">
@@ -101,8 +101,8 @@
     </td>
   </tr>
   <tr>
-    <td align="center" width="96" valign="top">
-      <img src="assets/tier-c.svg" alt="C tier" width="96" height="112" />
+    <td align="center" width="96" valign="middle" bgcolor="#e8ef78">
+      <strong><font color="#2b2b2b">C</font></strong>
     </td>
     <td bgcolor="#111111">
       <table cellspacing="6" cellpadding="0">
@@ -123,8 +123,8 @@
     </td>
   </tr>
   <tr>
-    <td align="center" width="96" valign="top">
-      <img src="assets/tier-d.svg" alt="D tier" width="96" height="112" />
+    <td align="center" width="96" valign="middle" bgcolor="#acef71">
+      <strong><font color="#2b2b2b">D</font></strong>
     </td>
     <td bgcolor="#111111">
       <table cellspacing="6" cellpadding="0">
