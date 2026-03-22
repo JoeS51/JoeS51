@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700" role="img" aria-label="My personal projects tierlist">
+  <rect width="1200" height="700" fill="#0d1117"/>
+
+  <g>
+    <rect x="0" y="0" width="140" height="140" fill="#f77f84"/>
+    <rect x="0" y="140" width="140" height="140" fill="#f2ba7b"/>
+    <rect x="0" y="280" width="140" height="140" fill="#f0dc84"/>
+    <rect x="0" y="420" width="140" height="140" fill="#e8ef78"/>
+    <rect x="0" y="560" width="140" height="140" fill="#acef71"/>
+
+    <text x="70" y="82" text-anchor="middle" font-family="Arial, sans-serif" font-size="56" fill="#232a36">S</text>
+    <text x="70" y="222" text-anchor="middle" font-family="Arial, sans-serif" font-size="56" fill="#232a36">A</text>
+    <text x="70" y="362" text-anchor="middle" font-family="Arial, sans-serif" font-size="56" fill="#232a36">B</text>
+    <text x="70" y="502" text-anchor="middle" font-family="Arial, sans-serif" font-size="56" fill="#232a36">C</text>
+    <text x="70" y="642" text-anchor="middle" font-family="Arial, sans-serif" font-size="56" fill="#232a36">D</text>
+  </g>
+
+  <g fill="none" stroke="#30363d" stroke-width="1">
+    <line x1="0" y1="140" x2="1200" y2="140"/>
+    <line x1="0" y1="280" x2="1200" y2="280"/>
+    <line x1="0" y1="420" x2="1200" y2="420"/>
+    <line x1="0" y1="560" x2="1200" y2="560"/>
+    <line x1="140" y1="0" x2="140" y2="700"/>
+  </g>
+
+  <g font-family="Arial, sans-serif" fill="#e6edf3">
+    <rect x="170" y="20" width="330" height="100" fill="#2a2a2a"/>
+    <text x="190" y="54" font-size="20" font-weight="700">React From Scratch</text>
+    <text x="190" y="84" font-size="16" fill="#c9d1d9">React reimplementation with VDOM + hooks.</text>
+
+    <rect x="170" y="160" width="300" height="100" fill="#2a2a2a"/>
+    <text x="190" y="194" font-size="20" font-weight="700">Rust Systems</text>
+    <text x="190" y="224" font-size="16" fill="#c9d1d9">Small Rust demos for systems topics.</text>
+
+    <rect x="490" y="160" width="300" height="100" fill="#2a2a2a"/>
+    <text x="510" y="194" font-size="20" font-weight="700">React Locator</text>
+    <text x="510" y="224" font-size="16" fill="#c9d1d9">Inspect components and jump to source.</text>
+
+    <rect x="810" y="160" width="300" height="100" fill="#2a2a2a"/>
+    <text x="830" y="194" font-size="20" font-weight="700">SSH Portfolio</text>
+    <text x="830" y="224" font-size="16" fill="#c9d1d9">Terminal portfolio people can SSH into.</text>
+
+    <rect x="170" y="300" width="380" height="100" fill="#2a2a2a"/>
+    <text x="190" y="334" font-size="20" font-weight="700">Personal Site</text>
+    <text x="190" y="364" font-size="16" fill="#c9d1d9">My website for projects and writing.</text>
+
+    <rect x="570" y="300" width="430" height="100" fill="#2a2a2a"/>
+    <text x="590" y="334" font-size="20" font-weight="700">Advent of Code 2025</text>
+    <text x="590" y="364" font-size="16" fill="#c9d1d9">Mostly completed AoC 2025 in Python/Rust.</text>
+
+    <rect x="170" y="440" width="420" height="100" fill="#2a2a2a"/>
+    <text x="190" y="474" font-size="20" font-weight="700">Claude Code Clone</text>
+    <text x="190" y="504" font-size="16" fill="#c9d1d9">CLI coding agent clone experiment.</text>
+
+    <rect x="170" y="580" width="360" height="100" fill="#2a2a2a"/>
+    <text x="190" y="614" font-size="20" font-weight="700">Reading List</text>
+    <text x="190" y="644" font-size="16" fill="#c9d1d9">Saved technical articles in one place.</text>
+  </g>
+
+  <rect x="0.5" y="0.5" width="1199" height="699" fill="none" stroke="#30363d" stroke-width="1"/>
+</svg>
