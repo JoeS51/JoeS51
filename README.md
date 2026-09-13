@@ -1,3 +1,6 @@
-# personal projects tier list
+focused on database internals
 
-![My personal projects tierlist](assets/tierlist.svg)
+<p align="center">
+  <img src="assets/tumblr_ptmmk6djdu1xwjivko9_100.gif" alt="Linux" width="88" height="31">
+  <img src="assets/ms.gif" alt="Microsoft" width="88" height="31">
+</p>
