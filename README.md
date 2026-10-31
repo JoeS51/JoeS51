@@ -1,6 +1,5 @@
 <img src="assets/mailput.gif" alt="Email" width="107" height="35">
-
-`focused on database internals`
+focused on database internals
 
 <!-- <br/> -->
 <!-- <p>
